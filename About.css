@@ -65,19 +65,23 @@
 }
 
 .footer #social-fb:hover {
-	color:#3B5998
+	color:#3B5998;
 }
 
 .footer #social-tw:hover {
-	color:#4099FF
+	color:#4099FF;
 }
 
 .footer #social-gh:hover {
-	color:#730e92
+	color:#730e92;
 }
 
 .footer #social-li:hover {
-	color:#f39c12
+	color:#0077b5;
+}
+
+.footer #social-re:hover {
+	color:#b30b00;
 }
 
 .copyright {
