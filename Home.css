@@ -102,15 +102,29 @@
     position:relative;
     bottom:0;
     width:100vw;
-    height:30px;
-    border-top:1px solid rgb(27, 117, 235);
-    background:rgb(255, 255, 255);
+    height:1rem;
+    background:#000000;
     text-align:center;
     margin:0 auto;
+    z-index:55;
 }
 
 .copyright h6 {
-    z-index:55;
+  top:0;
+  z-index:55;
+  line-height:30px;
+  margin:0 auto;
+  padding:0;
+}
+
+h6 {
+  font-weight: 400;
+  padding: 0;
+  margin: 0;
+  font-size: .8rem;
+  line-height: 1rem;
+  border: none;
+  font-family: OpenSans;
 }
 
 @media (max-width: 1199px) {
