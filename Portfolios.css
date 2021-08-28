@@ -102,7 +102,11 @@ h6 {
   font-size: .8rem;
   line-height: 1rem;
   border: none;
-  font-family: OpenSans;
+  font-family: 'OpenSans', sans-serif;
+}
+
+body.u-body.u-stick-footer {
+  background: black;
 }
 
 @media (max-width: 575px) {
