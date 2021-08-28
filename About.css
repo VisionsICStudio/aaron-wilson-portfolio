@@ -88,8 +88,7 @@
     position:relative;
     bottom:0;
     width:100vw;
-    height:30px;
-    border-top:1px solid rgb(27, 117, 235);
+    height:1rem;
     background:#000000;
     text-align:center;
     margin:0 auto;
