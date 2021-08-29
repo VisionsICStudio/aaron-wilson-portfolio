@@ -12665,9 +12665,10 @@ section.u-image,
 .u-stick-footer {
   display: flex;
   flex-direction: column;
+  background-color: #000000;
 }
 .u-stick-footer .u-footer {
-  margin-top: auto;
+  margin-top: 0;
 }
 .u-hide-header .u-header,
 .u-hide-footer .u-footer {
